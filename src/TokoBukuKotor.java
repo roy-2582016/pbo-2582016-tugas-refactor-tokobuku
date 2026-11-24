@@ -25,7 +25,7 @@ class Buku implements Produk {
     int durasiMenit;
 
     Buku(String jenis, String judul, String penulis, int harga,
-         int beratGram, double ukuranMB, int durasiMenit) {
+         int beratGram, double ukurangit add srcMB, int durasiMenit) {
         this.jenis = jenis;
         this.judul = judul;
         this.penulis = penulis;
